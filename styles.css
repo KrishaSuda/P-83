@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/ef/de/ae/efdeae709ea42996e8413c58b4cf39fb.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+#myCanvas {
+    background-color: white;
+    border: ridge;
+}
+
+button {
+    height: 40px;
+    color: teal;
+    background-color: white;
+    border-color: teal;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input {
+    padding: 5px;
+}
